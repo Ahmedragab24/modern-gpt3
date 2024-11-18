@@ -1,7 +1,7 @@
 import React from "react";
 import "./Blog.css";
-import Article from "../../components/article/Article";
 import { blog01, blog02, blog03, blog04, blog05 } from "./import";
+import { Article } from "@/app/Components";
 
 const Blog = () => {
   return (
